@@ -1,0 +1,17 @@
+{
+    "name": "irystap",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Yanchuk_Dmytro <dima2003yan@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.2",
+        "firebase-admin": "^11.8.1",
+        "node-telegram-bot-api": "^0.66.0"
+    }
+}
